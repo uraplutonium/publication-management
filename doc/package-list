@@ -1,0 +1,11 @@
+control
+control.controller
+model.enumeration
+model.group
+model.publication
+model.user
+testCase
+view.academicStaffUI
+view.coordinatorUI
+view.generalUserUI
+view.systemAdminUI
